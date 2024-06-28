@@ -1,0 +1,3 @@
+- Input trough the Raspberry PI Pico is working but VIAL isn't detecting the board.
+- Using another VIAL device on the PC, which is getting detected by VIAL (browser and app)
+- Flashed firmware trough .uf2 file
